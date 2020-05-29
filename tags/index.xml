@@ -1,49 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Website of my life</title>
+    <title>Tags on mywebsite</title>
     <link>https://WuChenChun.github.io/tags/</link>
-    <description>Recent content in Tags on Website of my life</description>
+    <description>Recent content in Tags on mywebsite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 31 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2020 22:30:00 -0800</lastBuildDate>
     
 	<atom:link href="https://WuChenChun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Biography</title>
-      <link>https://WuChenChun.github.io/tags/biography/</link>
-      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Game</title>
+      <link>https://WuChenChun.github.io/tags/game/</link>
+      <pubDate>Mon, 25 May 2020 22:30:00 -0800</pubDate>
       
-      <guid>https://WuChenChun.github.io/tags/biography/</guid>
+      <guid>https://WuChenChun.github.io/tags/game/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Business</title>
-      <link>https://WuChenChun.github.io/tags/business/</link>
-      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      <title>New</title>
+      <link>https://WuChenChun.github.io/tags/new/</link>
+      <pubDate>Mon, 25 May 2020 22:30:00 -0800</pubDate>
       
-      <guid>https://WuChenChun.github.io/tags/business/</guid>
+      <guid>https://WuChenChun.github.io/tags/new/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Self-learning</title>
-      <link>https://WuChenChun.github.io/tags/self-learning/</link>
-      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      <title>Photos</title>
+      <link>https://WuChenChun.github.io/tags/photos/</link>
+      <pubDate>Mon, 25 May 2020 22:30:00 -0800</pubDate>
       
-      <guid>https://WuChenChun.github.io/tags/self-learning/</guid>
+      <guid>https://WuChenChun.github.io/tags/photos/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>index</title>
-      <link>https://WuChenChun.github.io/tags/index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Python</title>
+      <link>https://WuChenChun.github.io/tags/python/</link>
+      <pubDate>Mon, 25 May 2020 22:30:00 -0800</pubDate>
       
-      <guid>https://WuChenChun.github.io/tags/index/</guid>
+      <guid>https://WuChenChun.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>https://WuChenChun.github.io/tags/react/</link>
+      <pubDate>Mon, 25 May 2020 22:30:00 -0800</pubDate>
+      
+      <guid>https://WuChenChun.github.io/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://WuChenChun.github.io/tags/html/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://WuChenChun.github.io/tags/html/</guid>
       <description></description>
     </item>
     
