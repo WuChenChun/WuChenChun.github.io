@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Website of my life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://WuChenChun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Politics</title>
+      <link>https://WuChenChun.github.io/tags/politics/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://WuChenChun.github.io/tags/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youtube</title>
+      <link>https://WuChenChun.github.io/tags/youtube/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://WuChenChun.github.io/tags/youtube/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Psychotherapy</title>
@@ -26,15 +44,6 @@
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://WuChenChun.github.io/tags/ted-talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Youtube</title>
-      <link>https://WuChenChun.github.io/tags/youtube/</link>
-      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://WuChenChun.github.io/tags/youtube/</guid>
       <description></description>
     </item>
     

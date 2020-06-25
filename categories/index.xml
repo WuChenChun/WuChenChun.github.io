@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Website of my life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://WuChenChun.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Listening</title>
+      <link>https://WuChenChun.github.io/categories/listening/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://WuChenChun.github.io/categories/listening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watching</title>
+      <link>https://WuChenChun.github.io/categories/watching/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://WuChenChun.github.io/categories/watching/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reading</title>
@@ -17,24 +35,6 @@
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://WuChenChun.github.io/categories/reading/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Watching</title>
-      <link>https://WuChenChun.github.io/categories/watching/</link>
-      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://WuChenChun.github.io/categories/watching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Listening</title>
-      <link>https://WuChenChun.github.io/categories/listening/</link>
-      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://WuChenChun.github.io/categories/listening/</guid>
       <description></description>
     </item>
     
