@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Website of my life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://WuChenChun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Podcast</title>
+      <link>https://WuChenChun.github.io/tags/podcast/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://WuChenChun.github.io/tags/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughts</title>
+      <link>https://WuChenChun.github.io/tags/thoughts/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://WuChenChun.github.io/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>https://WuChenChun.github.io/tags/website/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://WuChenChun.github.io/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youtube</title>
+      <link>https://WuChenChun.github.io/tags/youtube/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://WuChenChun.github.io/tags/youtube/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Drama</title>
@@ -35,15 +71,6 @@
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://WuChenChun.github.io/tags/politics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Youtube</title>
-      <link>https://WuChenChun.github.io/tags/youtube/</link>
-      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://WuChenChun.github.io/tags/youtube/</guid>
       <description></description>
     </item>
     
@@ -80,15 +107,6 @@
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://WuChenChun.github.io/tags/business/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Podcast</title>
-      <link>https://WuChenChun.github.io/tags/podcast/</link>
-      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://WuChenChun.github.io/tags/podcast/</guid>
       <description></description>
     </item>
     
